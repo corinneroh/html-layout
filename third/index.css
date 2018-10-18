@@ -1,0 +1,32 @@
+nav {
+    background-color: rgba(223, 219, 219, 0.822);
+    height: 20vh;
+    padding: 10px;
+}
+.blue-box {
+    background-color: rgba(34, 161, 219, 0.945);
+    width: 20vh;
+    height: 100%;
+}
+.text-box {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10vh; 
+    padding-bottom: 20vh;
+    margin: auto;
+
+}
+.line {
+    background-color: rgba(34, 161, 219, 0.945);
+    width: 100vw;
+    height: 20vh;
+}
+.aqua {
+    background-color: aquamarine;
+}
+.green {
+    background-color: rgb(198, 245, 137);
+}
+.yellow {
+    background-color: yellow
+}
